@@ -1,0 +1,9 @@
+/* Custom styles for your site */
+body {
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* Custom font for menu items if needed */
+.font-menu-item {
+    font-family: 'Georgia', serif; /* Example, replace with actual font if available */
+}
